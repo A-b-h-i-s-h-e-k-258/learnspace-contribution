@@ -1,6 +1,18 @@
 # learnspace-contribution
 This repository documents my individual contributions to **LearnSpace**, a student-focused educational platform designed to provide organized access to subject-wise learning resources.
 
+## 🎯 Overview
+
+LearnSpace is a full-stack EdTech platform developed to support engineering students across various branches. It organizes YouTube video lectures, topic-wise content, and eventually semester-wise PYQs to make academic learning simpler and more structured.
+
+## 🧠 My Contributions
+
+- 📁 **Curated and categorized 5000+ YouTube videos** from various educational channels.
+- 🧩 Organized content across **30+ subjects** from **ECE, IT, and IT-BI** branches.
+- 📚 Divided each subject into **topic-wise sections** for improved learning flow.
+- 💻 Contributed to **frontend layout** and video section integration using `React.js`.
+- 📝 Collected and structured **Semester 1 previous year question papers** (to be added to the platform).
+
 First choose your semester
 ![image](https://github.com/user-attachments/assets/6ab6621e-d4fd-4727-ac23-2297793bc252)
 Choose your branch
